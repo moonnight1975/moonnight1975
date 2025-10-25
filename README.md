@@ -38,10 +38,10 @@ I love tackling challenging problems, learning new technologies, and creating pr
 St. John College of Engineering and Management, Palghar | 2024 – 2028
 
 **Higher Secondary (Class 12 – Science Stream)**  
-Vidya Vikasini Jr. College, Vasai | 2024 | 56%
+Vidya Vikasini Jr. College, Vasai | 2024 | Second Class
 
 **Secondary School (Class 10)**  
-St. Xavier's High School, Virar | 2022 | 70%
+St. Xavier's High School, Virar | 2022 | First Class
 
 ---
 
