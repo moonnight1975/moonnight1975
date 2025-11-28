@@ -11,27 +11,16 @@
 I am a Computer Science Engineering student passionate about **software development, UI/UX design, and building efficient applications**.  
 I love tackling challenging problems, learning new technologies, and creating projects that make life easier.  
 
----
+## 🚀 Featured Projects
 
-## 🚀 Projects
-
-### **Notes App (Android, Jetpack Compose) – In Progress**
-- Mobile notes app with local storage using SQLite.
-- Features: add, edit, delete, search notes.
-- Focused on a **clean and intuitive UI**.
-
-### **Digital Contact Book App (Desktop, Python & PostgreSQL)**  
-- Desktop contact app using **Tkinter** and **PostgreSQL**.
-- Features: CRUD operations (add, edit, delete, search contacts).
-- Focused on a **user-friendly interface**.
-
-### **Portfolio Website**  
-- Responsive website using **HTML & CSS**.
-- Showcases **projects, skills, and achievements**.
-- Deployed on Vercel for accessibility.  
-[![Portfolio](https://img.shields.io/badge/%F0%9F%A4%97_Portfolio-%2334D058?style=for-the-badge&logoColor=white)](https://litto.vercel.app)
-
----
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **🟦 AR Book** | ![Unity](https://img.shields.io/badge/Unity-AR_Foundation-black) ![Android](https://img.shields.io/badge/Platform-Android-green) | Interactive AR experience where printed pages trigger 3D models and animations using image tracking. |
+| **🎢 VR Roller Coaster** | ![Unity](https://img.shields.io/badge/Unity-XR_Interaction-black) ![Quest3](https://img.shields.io/badge/Device-Meta_Quest_3-blueviolet) | An immersive VR physics simulation optimized for the Meta Quest 3, featuring scene optimization and XR interactions. |
+| **🖥️ Digital Contact Book** | ![Python](https://img.shields.io/badge/Python-Tkinter-blue) ![SQL](https://img.shields.io/badge/DB-PostgreSQL-336791) | Desktop CRUD application with a user-friendly GUI. Features secure database connectivity and contact management. |
+| **🎵 Music Player** | ![Java](https://img.shields.io/badge/Language-Java-red) ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57) | Native Android audio player with playlist management, song retrieval, and background playback support. |
+| **🍎 Apple Clone** | ![HTML5](https://img.shields.io/badge/Web-HTML%2FCSS-orange) ![JS](https://img.shields.io/badge/Code-JavaScript-yellow) | A responsive, pixel-perfect clone of the Apple homepage focusing on smooth animations and front-end design. |
+| **🌐 Portfolio Website** | ![HTML](https://img.shields.io/badge/Stack-HTML%2FCSS-orange) ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black) | Personal showcase website featuring projects and skills. Fully responsive and deployed for global access. |
 
 ## 🎓 Education
 **B.Tech in Computer Engineering**  
@@ -70,7 +59,8 @@ St. Xavier's High School, Virar | 2022 | First Class
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
-
+[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![AutoCAD](https://img.shields.io/badge/-AutoCAD-E01E26?style=flat&logo=autocad&logoColor=white)](https://www.autodesk.com/products/autocad)
 ---
 
 ## 🏆 Achievements & Certifications
