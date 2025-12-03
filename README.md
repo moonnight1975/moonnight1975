@@ -21,6 +21,7 @@ I love tackling challenging problems, learning new technologies, and creating pr
 | **🎵 Music Player** | ![Java](https://img.shields.io/badge/Language-Java-red) ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57) | Native Android audio player with playlist management, song retrieval, and background playback support. |
 | **🍎 Apple Clone** | ![HTML5](https://img.shields.io/badge/Web-HTML%2FCSS-orange) ![JS](https://img.shields.io/badge/Code-JavaScript-yellow) | A responsive, pixel-perfect clone of the Apple homepage focusing on smooth animations and front-end design. |
 | **🌐 Portfolio Website** | ![HTML](https://img.shields.io/badge/Stack-HTML%2FCSS-orange) ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black) | Personal showcase website featuring projects and skills. Fully responsive and deployed for global access. |
+| **🌿 Health Assist Avatar** |  ![Gemma AI](https://img.shields.io/badge/AI-Gemma-4285F4) ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black) | Health Assist Avatar is designed to be your daily wellness companion. It tracks your steps, water intake, sleep, and mood while providing medication reminders—all supported by an interactive Health Assistant Chatbot. The project emphasizes a "Glassmorphic" aesthetic, fluid Framer Motion animations, and a developer-friendly architecture.|
 
 ## 🎓 Education
 **B.Tech in Computer Engineering**  
