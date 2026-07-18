@@ -1,74 +1,316 @@
-# 👋 Hi, I'm Litto Biju Pappachan
+<!-- ===================================================== -->
+<!--                     HEADER                             -->
+<!-- ===================================================== -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/litto-biju-pappachan-568015336/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moonnight1975)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://lstudio1975.blogspot.com/)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Litto31102469)
+<h1 align="center">
+Hi 👋, I'm Litto Biju Pappachan
+</h1>
 
----
+<h3 align="center">
+Computer Engineering Student • Full Stack Developer • Android Developer • AI Enthusiast
+</h3>
 
-## 🧑‍💻 About Me
-I am a Computer Science Engineering student passionate about **software development, UI/UX design, and building efficient applications**.  
-I love tackling challenging problems, learning new technologies, and creating projects that make life easier.  
+<p align="center">
 
-## 🚀 Featured Projects
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=5D7BFF&center=true&vCenter=true&width=900&lines=Building+Modern+Software.;Android+Developer.;Full+Stack+Developer.;AI+%7C+AR%2FVR+Developer.;Always+Learning+New+Technologies." />
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **🏦 Fraud Disk Scheduling (FDS)** | ![Python](https://img.shields.io/badge/Language-Python-blue) ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B) ![Plotly](https://img.shields.io/badge/Charts-Plotly-purple) | A disk scheduling simulation system that compares FCFS and Optimized algorithms to detect fraud bursts in financial transaction logs. Includes logical disk block simulation, seek distance analysis, and performance visualization dashboard. |
-| **🟦 AR Book** | ![Unity](https://img.shields.io/badge/Unity-AR_Foundation-black) ![Android](https://img.shields.io/badge/Platform-Android-green) | Interactive AR experience where printed pages trigger 3D models and animations using image tracking. |
-| **🎢 VR Roller Coaster** | ![Unity](https://img.shields.io/badge/Unity-XR_Interaction-black) ![Quest3](https://img.shields.io/badge/Device-Meta_Quest_3-blueviolet) | An immersive VR physics simulation optimized for the Meta Quest 3, featuring scene optimization and XR interactions. |
-| **🖥️ Digital Contact Book** | ![Python](https://img.shields.io/badge/Python-Tkinter-blue) ![SQL](https://img.shields.io/badge/DB-PostgreSQL-336791) | Desktop CRUD application with a user-friendly GUI. Features secure database connectivity and contact management. |
-| **🎵 Music Player** | ![Java](https://img.shields.io/badge/Language-Java-red) ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57) | Native Android audio player with playlist management, song retrieval, and background playback support. |
-| **🍎 Apple Clone** | ![HTML5](https://img.shields.io/badge/Web-HTML%2FCSS-orange) ![JS](https://img.shields.io/badge/Code-JavaScript-yellow) | A responsive, pixel-perfect clone of the Apple homepage focusing on smooth animations and front-end design. |
-| **🌐 Portfolio Website** | ![HTML](https://img.shields.io/badge/Stack-HTML%2FCSS-orange) ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black) | Personal showcase website featuring projects and skills. Fully responsive and deployed for global access. |
-| **🌿 Health Assist Avatar** | ![Gemma AI](https://img.shields.io/badge/AI-Gemma-4285F4) ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black) | Health Assist Avatar is designed to be your daily wellness companion. It tracks your steps, water intake, sleep, and mood while providing medication reminders—all supported by an interactive Health Assistant Chatbot. The project emphasizes a "Glassmorphic" aesthetic, fluid Framer Motion animations, and a developer-friendly architecture. |
+</p>
 
-## 🎓 Education
-**B.Tech in Computer Engineering**  
-St. John College of Engineering and Management, Palghar | 2024 – 2028
+<p align="center">
 
-**Higher Secondary (Class 12 – Science Stream)**  
-Vidya Vikasini Jr. College, Vasai | 2024 | Second Class
+<a href="https://komarev.com/ghpvc/?username=moonnight1975">
+<img src="https://komarev.com/ghpvc/?username=moonnight1975&label=Profile%20Views&color=5D7BFF&style=for-the-badge">
+</a>
 
-**Secondary School (Class 10)**  
-St. Xavier's High School, Virar | 2022 | First Class
+<a href="https://github.com/moonnight1975?tab=followers">
+<img src="https://img.shields.io/github/followers/moonnight1975?style=for-the-badge">
+</a>
+
+<a href="https://github.com/moonnight1975">
+<img src="https://img.shields.io/github/stars/moonnight1975?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
-## 🛠 Skills
+# 🌐 Connect With Me
 
-### **Languages**
-[![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+<p align="center">
 
-### **Web & Databases**
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+<a href="https://www.linkedin.com/in/litto-biju-pappachan-568015336/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-### **Tools & IDEs**
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
-[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
-[![AutoCAD](https://img.shields.io/badge/-AutoCAD-E01E26?style=flat&logo=autocad&logoColor=white)](https://www.autodesk.com/products/autocad)
+<a href="https://github.com/moonnight1975">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://lstudio1975.blogspot.com/">
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+</a>
+
+<a href="https://x.com/Litto31102469">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
+</a>
+
+</p>
+
 ---
 
-## 🏆 Achievements & Certifications
-- **Extension Work Certificate** – University of Mumbai (2025)  
-120 hours covering IT, Industry Orientation, Entrepreneurship, Career Guidance, Women Empowerment & Population Education.
+# 💫 About Me
 
-- **Participation Certificate** – Student Induction Programme (SIP), St. John College (2024-25)
+🎓 Computer Engineering Student passionate about creating software that solves real-world problems.
 
-- **Poster Competition (3rd Rank)** – SIP, St. John College (2024-25)
+💻 Interested in
+
+- Artificial Intelligence
+- Full Stack Development
+- Android Development
+- UI/UX Design
+- AR & VR
+- System Design
+
+🚀 I enjoy building products that combine beautiful interfaces with intelligent functionality.
+
+🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- Next.js
+- FastAPI
+- Flutter
+- Jetpack Compose
+- Cloud Deployment
+
+🎯 Career Goal
+
+Become a Software Engineer building scalable products powered by Artificial Intelligence.
+
+---
+
+# 🚀 Latest Project
+
+## 🧠 Interactive Soft Computing Lab
+<p align="center">
+  <a href="https://interactive-perceptron-learning.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Interactive%20Soft%20Computing%20Lab-5D7BFF?style=for-the-badge">
+  </a>
+</p>
+
+A modern interactive educational platform that makes Artificial Neural Networks easier to understand through real-time simulations and visual learning.
+
+### Features
+
+- 🧠 McCulloch-Pitts Neuron Simulator
+- ⚡ Perceptron Learning Algorithm
+- 📈 Real-time Learning Visualization
+- 🎯 Logic Gate Simulation
+- 📊 Interactive Charts
+- 📱 Fully Responsive
+- 🌙 Modern UI
+- ⚡ Fast Client-side Rendering
+
+### Tech Stack
+
+Next.js • React • TypeScript • Tailwind CSS • Framer Motion • Chart.js
+
+---
+
+# 🚀 Featured Projects
+
+## 🏦 Financial Fraud Disk Scheduling
+
+Research-based Operating System simulator that compares FCFS with optimized scheduling algorithms to identify fraud bursts in financial transaction logs.
+
+**Stack**
+
+Python • Streamlit • Plotly • Pandas
+
+---
+
+## 🌿 Health Assist Avatar
+
+AI-powered healthcare assistant featuring medication reminders, mood tracking, sleep monitoring, hydration tracking, and an intelligent chatbot.
+
+**Stack**
+
+Next.js • FastAPI • Gemma AI • Framer Motion
+
+---
+
+## 🟦 AR Book
+
+Educational Augmented Reality application that transforms printed books into interactive 3D learning experiences using image tracking.
+
+**Stack**
+
+Unity • AR Foundation • Android
+
+---
+
+## 🎢 VR Roller Coaster
+
+Immersive Meta Quest 3 roller coaster simulation featuring optimized rendering, realistic physics, and XR interactions.
+
+**Stack**
+
+Unity • XR Interaction Toolkit
+
+---
+
+## 📒 Digital Contact Book
+
+Desktop contact management system with PostgreSQL database integration, event management, search functionality, and a modern GUI.
+
+**Stack**
+
+Python • CustomTkinter • PostgreSQL
+
+---
+
+## 🎵 Music Player
+
+Native Android music player supporting playlists, local storage scanning, and background playback.
+
+**Stack**
+
+Java • SQLite
+
+---
+
+## 🍎 Apple Homepage Clone
+
+Responsive front-end recreation of Apple's homepage focusing on smooth animations and modern UI.
+
+**Stack**
+
+HTML • CSS • JavaScript
+
+---
+
+## 🌐 Personal Portfolio
+
+Modern portfolio website showcasing projects, skills, achievements, and technical experience.
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+## Frontend
+
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+
+---
+
+## Backend
+
+Python • FastAPI
+
+---
+
+## Mobile
+
+Android • Kotlin • Java • Flutter • Jetpack Compose
+
+---
+
+## Databases
+
+PostgreSQL • MySQL • SQLite
+
+---
+
+## AI / ML
+
+Machine Learning • Neural Networks • Streamlit • Plotly
+
+---
+
+## AR / VR
+
+Unity • AR Foundation • XR Interaction Toolkit
+
+---
+
+## Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Android Studio
+
+Xcode
+
+Unity
+
+AutoCAD
+
+---
+
+# 🏆 Certifications & Achievements
+
+🏅 University of Mumbai Extension Work Certificate (120 Hours)
+
+🏅 Student Induction Programme Participation
+
+🥉 Poster Competition – 3rd Rank
+
+---
+
+# 📚 Currently Working On
+
+- 🤖 AI-powered Applications
+- 📱 Android Apps
+- 🌐 Full Stack Web Development
+- 🧠 Artificial Neural Network Simulators
+- 🚀 Open Source Projects
+
+---
+
+# 📈 2026 Goals
+
+- ✅ Publish production-ready Android apps
+- ✅ Contribute to Open Source
+- ✅ Learn Cloud Technologies
+- ✅ Build AI-powered SaaS products
+- ✅ Secure a Software Engineering Internship
+
+---
+
+# 💬 Quote
+
+> "Great software isn't just written—it is designed, refined, and continuously improved."
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on
+
+- Artificial Intelligence
+- Android Development
+- Full Stack Development
+- Open Source
+- AR / VR
+- Innovative Student Projects
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
